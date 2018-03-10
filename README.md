@@ -1,2 +1,2 @@
 # smbl-to-html
-Convert SMBL XML to HTML
+Convert Systems Biology Markup Language to HTML
